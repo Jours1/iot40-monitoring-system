@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Plan de migración de Windows a Ubuntu para el proyecto IoT 4.0. Se detallan rutas, inventario y scripts de bash para WSL.",
+  "updatedAt":  "2026-04-02T05:33:45.918415400Z",
+  "requestFeedback":  true
+}

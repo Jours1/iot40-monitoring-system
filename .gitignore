@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Logs
+data/logs/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+apps/frontend/dist/
+
+# MongoDB data (local)
+data/mongodb/
+
+# Temp
+*.tmp
+*.swp

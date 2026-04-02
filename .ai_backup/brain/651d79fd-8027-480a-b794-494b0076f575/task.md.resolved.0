@@ -1,0 +1,4 @@
+- `[x]` Crear script `migrate_antigravity.sh` (copia de archivos usando rsync desde VFS, exclusión de temporales, conversión EOL).
+- `[ ]` Crear script `verify_migration.sh` (validar que los archivos copiados coinciden, revisar permisos).
+- `[ ]` Crear script `backup_antigravity.sh` (compresión en tar.gz del entorno).
+- `[ ]` Documentar el proceso en `README-MIGRATION.md`.
